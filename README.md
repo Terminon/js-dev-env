@@ -1,2 +1,2 @@
 # js-dev-env
-JavaScript Development Environment from Pluralsight course with Cory House
+JavaScript Boilerplate project using NodeJs, MySQL, React
